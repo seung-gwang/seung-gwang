@@ -1,7 +1,7 @@
 
 # 
 <h1 align="center">🐬 About Me </h1>
-<h3 align="center">Passionate, strategic programmer with a knack for creativity and problem-solving.</h3>
+<h3 align="center">Passionate, strategic programmer with a knack for creativity and problem-solving</h3>
 
 ## Skills:
 - Web Development (Java, Spring Boot, RDBMS)
