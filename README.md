@@ -5,6 +5,7 @@
 
 ## Skills:
 - **Web back-end Development** (Java, Spring Boot, RDBMS-SQL/PLSQL)
+- **Devops experience** (Microsoft Azure, AWS, CI/CD-github actions)
 - **Low-Level Understanding** (C, Assembly Langauge, Computer science)
 - **Communication** (I am a careful listener!)
 
