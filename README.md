@@ -1,9 +1,7 @@
 
-# 🐬 About Me 
-## **Creative strategist:** 
-
-**Passionate, strategic programmer with a knack for creativity and problem-solving.** 
-
+# 
+<h1 align="center">🐬 About Me </h1>
+<h3 align="center">Passionate, strategic programmer with a knack for creativity and problem-solving.</h3>
 
 ## Skills:
 - Web Development (Java, Spring Boot, RDBMS)
@@ -22,5 +20,7 @@
 - Shinhan DS Financial Software Academy Graduate (2023.08 ~ 2024.02)
 - [POCU Academy COMP2300](https://pocu.academy/ko/Courses/COMP2300)  : Assembly Programming course passed (2023.05 ~ 2023.08)
 - [POCU Academy COMP2200 ](https://pocu.academy/ko/Courses/COMP2200) : C Unmanaged Programming course passed (2022.05 ~ 2022.08)
-
+## Contacts:
+  - 📫 Email : **nsg0411@cau.ac.kr**
+  - <a href="https://www.linkedin.com/in/seung-gwang-roh-4425bb1b3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="seung-gwang-roh" height="30" width="40" /></a>
   
