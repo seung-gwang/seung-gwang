@@ -4,9 +4,9 @@
 <h3 align="center">Passionate, strategic programmer with a knack for creativity and problem-solving</h3>
 
 ## Skills:
-- Web Development (Java, Spring Boot, RDBMS)
-- Low-Level Understanding (C, Assembly Langauge, Computer science)
-- Communication (I am a careful listener!)
+- **Web back-end Development** (Java, Spring Boot, RDBMS)
+- **Low-Level Understanding** (C, Assembly Langauge, Computer science)
+- **Communication** (I am a careful listener!)
 
 ## Achievements:
 - Project Excellence Award Winner @ Shinhan DS Financial Software Academy
