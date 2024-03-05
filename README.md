@@ -7,7 +7,7 @@
 - **Web back-end Development** (Java, Spring Boot, RDBMS-SQL/PLSQL)
 - **Devops experience** (Microsoft Azure, AWS, CI/CD-github actions)
 - **Low-Level Understanding** (C, Assembly Langauge, Computer science)
-- **Communication** (I am a careful listener!)
+- **Communication** (Leadership based on careful listening)
 
 ## Achievements:
 - Project Excellence Award Winner @ Shinhan DS Financial Software Academy
